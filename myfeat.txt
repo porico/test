@@ -1,3 +1,4 @@
 myfeat test
 
 add feature major
+add feature major2
