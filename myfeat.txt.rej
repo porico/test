@@ -1,0 +1,7 @@
+diff a/myfeat.txt b/myfeat.txt	(rejected hunks)
+@@ -2,2 +2,3 @@
+\ No newline at end of file
+ myfeat test
+ 
++add sub feature
+\ No newline at end of file
