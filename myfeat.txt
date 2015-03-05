@@ -5,3 +5,4 @@ add feature major2
 
 add sub feature
 
+feat2
