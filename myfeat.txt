@@ -11,3 +11,5 @@ dev1
 git command
 	git add -p
 	git commit -m "git commandの確認"
+
+add new-feature
