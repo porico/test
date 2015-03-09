@@ -7,7 +7,7 @@ add sub feature
 
 feat2
 dev1
-
+hotfix
 git command
 	git add -p
 	git commit -m "git commandの確認"
