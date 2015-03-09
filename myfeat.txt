@@ -13,3 +13,4 @@ git command
 	git commit -m "git commandの確認"
 
 add new-feature
+add new-feature2
