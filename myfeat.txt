@@ -19,3 +19,5 @@ add new-feature2
 
 add new-f
 add new-f more
+
+jenkins 自動アップtest
