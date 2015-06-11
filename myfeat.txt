@@ -22,3 +22,5 @@ add new-f more
 
 jenkins 自動アップtest
 jenkins 自動アップtest second
+
+jenkins 自動アップtest 3rd
